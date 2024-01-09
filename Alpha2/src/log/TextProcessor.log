@@ -1,0 +1,110 @@
+led 06, 2024 10:19:09 ODP. Main main
+SEVERE: An error occurred: Cannot read the file: lorem.txt
+led 06, 2024 10:26:12 ODP. Main main
+SEVERE: An error occurred: Cannot read the file: lorem.txt
+led 06, 2024 10:26:27 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:26:27 ODP. Main main
+INFO: Compression completed.
+led 06, 2024 10:28:15 ODP. Main main
+INFO: Starting decompression...
+led 06, 2024 10:28:16 ODP. Main main
+INFO: Decompression completed.
+led 06, 2024 10:29:45 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:29:45 ODP. Main main
+INFO: Compression completed.
+led 06, 2024 10:30:10 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:30:10 ODP. Main main
+INFO: Compression completed.
+led 06, 2024 10:34:26 ODP. Main main
+INFO: Starting compression...
+led 06, 2024 10:34:26 ODP. Main main
+INFO: Compression completed.
+led 08, 2024 11:20:51 ODP. Main main
+INFO: Starting compression...
+led 08, 2024 11:20:51 ODP. Main main
+INFO: Compression completed.
+led 08, 2024 11:23:31 ODP. Main main
+INFO: Starting compression...
+led 08, 2024 11:23:31 ODP. Main main
+INFO: Compression completed.
+led 08, 2024 11:29:15 ODP. Main main
+INFO: Starting compression...
+led 08, 2024 11:29:15 ODP. Main main
+INFO: Compression completed.
+led 08, 2024 11:30:50 ODP. Main main
+INFO: Starting compression...
+led 08, 2024 11:30:50 ODP. Main main
+INFO: Compression completed.
+led 09, 2024 12:02:54 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:02:54 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:06:16 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:06:17 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:11:01 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:11:01 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:11:32 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:11:32 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:13:06 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:13:07 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:14:21 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:14:21 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:18:35 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:18:35 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:24:55 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:24:55 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:27:06 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:27:06 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:31:16 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:31:16 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:35:13 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:35:13 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:36:22 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:36:22 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:39:36 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:39:36 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:44:12 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 12:44:12 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 12:47:56 DOP. Main main
+INFO: Starting decompression...
+led 09, 2024 12:47:56 DOP. Main main
+INFO: Decompression completed.
+led 09, 2024 1:31:49 DOP. Main main
+SEVERE: An error occurred: Cannot read the file: Lorem1.txt
+led 09, 2024 1:31:57 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 1:31:57 DOP. Main main
+INFO: Compression completed.
+led 09, 2024 3:04:38 DOP. Main main
+INFO: Starting compression...
+led 09, 2024 3:04:38 DOP. Main main
+INFO: Compression completed.
